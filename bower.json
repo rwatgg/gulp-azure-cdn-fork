@@ -1,0 +1,20 @@
+{
+    "name": "relax.modules",
+    "version": "1.0.0",
+    "authors": [{
+	        "name" : "Felix Nielsen",
+	        "email": "felix.nielsen@rwatgg.dk",
+	        "url"  : "http://rwatgg.dk"
+	    },
+	    {
+	        "name" : "Morten OC",
+	        "email": "morten.christensen@rwatgg.dk",
+	        "url"  : "http://rwatgg.dk"
+	    }
+    ],
+    "devDependencies": {
+    },
+    "main": "src",
+    "license": "MIT",
+    "ignore": [ "package.json", "README.md" ]
+}
