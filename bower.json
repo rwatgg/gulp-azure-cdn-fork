@@ -16,5 +16,9 @@
     },
     "main": "src",
     "license": "MIT",
-    "ignore": [ "package.json", "README.md" ]
+    "ignore": [
+		"bower.json",
+		".gitignore",
+		"README.md"
+	]
 }
